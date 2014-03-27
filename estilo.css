@@ -10,3 +10,13 @@
 	  	text-align: center;
 	  	padding: 100px 0px;
 	  }
+
+
+	  div#a2 {
+	  	text-align: center;
+	  }
+
+
+	  div#a2 button {
+	  	float:right;
+	  }
