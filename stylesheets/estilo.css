@@ -1,22 +1,41 @@
- body {
+body {
 	  	margin: 0;
 	  }
 
 	  div#a1 {
-	  	background-image: url('../images/angelo.jpg');
+	  	background-image: url(../images/fundo.jpg);
 	  	background-repeat:no-repeat;
 	  	background-size: cover;  //estica imagem 
 	  	background-color: green;
 	  	text-align: center;
-	  	padding: 250px 0px;
+	  	padding: 0px 0px;
+	  	
 	  }
-
-
+	  
 	  div#a2 {
 	  	text-align: center;
 	  }
-
-
+	  
+	  
 	  div#a2 button {
 	  	float:right;
 	  }
+
+	  ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      margin:0;
+  }
+
+      li {
+      	font-weight: normal;
+      	font-family: impact;
+      	font-style: normal;
+        display: inline;
+        padding: 0px 10px 0px 10px;
+
+         }
+
+       a {
+          color: black;
+        }
