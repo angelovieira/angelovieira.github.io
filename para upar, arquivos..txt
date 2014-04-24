@@ -1,0 +1,9 @@
+git add -A (Adciona todos os arquivos)
+
+git add "nome do arquivo"
+
+git commit -m "mensagem"
+
+git push
+
+git status
